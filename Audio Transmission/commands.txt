@@ -1,1 +1,4 @@
+plot "resEnAodv1" w lp, "resEnAomdv1" w lp ,"resEnDsr1" w lp,"resEnDsdv1" w lp
+plot "insthrAodv2" w lp ,"insthrAomdv2" w lp , "insthrDsr2" w lp ,"insthrDsdv2" w lp
 
+ plot "Tahoe1.plot" w l lw 2, "Reno1.plot" w l lw 2,"Newreno1.plot" w l lw 2,"Sack1.plot" w l lw 2 ,"Vegas1.plot" w l lw 2
